@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual environment
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# FastAPI/Uvicorn cache
+*.db
+*.sqlite3
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache
+
+# Static/media (if added later)
+static/
+uploads/
+
+# Compiled files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
